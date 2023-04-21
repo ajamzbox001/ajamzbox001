@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vivien Vanijankul
+## Hello there 👋, I'm Vivien Vanijankul
 
 - 🔭 I’m currently working on ... English E-Learning website
 - 🌱 I’m currently learning ... JavaScript
