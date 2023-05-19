@@ -1,6 +1,6 @@
-# Hello there 👋, I'm Vivien Vanijankul  
+# Hello there👋, I'm Vivien Vanijankul  
 
-- 🔭 I’m currently working on ... English E-Learning website
+- 🔭 I’m currently working on ... English Vocabulary E-Learning Website
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... Any kind of coding projects
 - 🤔 I’m looking for help with ... Remote or Freelance job offers
