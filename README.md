@@ -14,7 +14,7 @@
   <tr>
         <td>Frontend Dev</td>
         <td>
-          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0306b8676fd41f369252255f848856e9062cf73b/logo-2582748_1280.png" width="60" height="60"/></a>
+          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0306b8676fd41f369252255f848856e9062cf73b/logo-2582748_1280.png" width="50" height="50"/></a>
         </td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
