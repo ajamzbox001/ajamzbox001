@@ -14,6 +14,9 @@
   <tr>
         <td>Frontend Dev</td>
         <td>
+          
+        </td>
+        <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
         </td>
   </tr>
