@@ -32,11 +32,5 @@
 </table>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&no-frame=true)](https://github.com/ajamzbox001/github-profile-trophy)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ajamzbox001&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)](https://github.com/ajamzbox-001/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)](https://github.com/ajamzbox001/github-readme-stats)
 
