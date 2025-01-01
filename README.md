@@ -41,3 +41,8 @@ Hello there 👋, I'm Vivien Vanijankul
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
+
+![Snake animation](https://github.com/ajamzbox001/ajamzbox001/blob/output/github-contribution-grid-snake.svg)
+
+
+
