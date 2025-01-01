@@ -39,7 +39,7 @@ Hi! there👋, I'm Vivien Vanijankul
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ajamzbox001&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&no-frame=true&margin-w=-10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
