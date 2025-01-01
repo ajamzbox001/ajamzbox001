@@ -1,12 +1,16 @@
-# Hello there👋, I'm Vivien Vanijankul  
+```yaml
+
+Hello there 👋, I'm Vivien Vanijankul  
 
 - 🔭 I’m currently working on ... Getting a Full-Stack Development Professional Certificate
 - 🌱 I’m currently learning ... HTML / CSS / JavaScript
 - 🤔 I’m looking for help with ... Remote or Freelance job offers
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... ajamzbox@gmail.com
-- 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... Most of the time in my life right now is dedicated to coding and family!
+- 📫 How to reach me ... ajamzbox@gmail.com
+- 😄 Pronouns ... She / her
+- ⚡ Fun fact ... Most of the time in my life right now is dedicated to coding and family!
+
+```
 
 ### Toolset
 
@@ -33,4 +37,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ajamzbox001&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+
+<img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
