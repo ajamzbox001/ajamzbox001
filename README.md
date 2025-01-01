@@ -42,9 +42,3 @@ Hi! there👋, I'm Vivien Vanijankul
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&no-frame=true&margin-w=-10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
-
-
-
-
-
-
