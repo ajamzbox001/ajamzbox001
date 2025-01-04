@@ -35,10 +35,11 @@ Hi! there👋, I'm Vivien Vanijankul
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajamzbox001&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ajamzbox001&theme=dracula&hide_border=true&border_radius=10)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&no-frame=true&margin-w=-10)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&no-frame=true&margin-w=-10)
+
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
