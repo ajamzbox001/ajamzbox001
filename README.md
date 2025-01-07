@@ -37,8 +37,6 @@ Hi! there👋, I'm Vivien Vanijankul
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ajamzbox001&theme=dracula&hide_border=true&border_radius=10)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&no-frame=true&margin-w=-10)
 
 
