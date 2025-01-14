@@ -37,7 +37,5 @@ Hi! there👋, I'm Vivien Vanijankul
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ajamzbox001&theme=dracula&title=-Issues,-PullRequest,-Reviews&no-frame=true&margin-w=-10)
-
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
