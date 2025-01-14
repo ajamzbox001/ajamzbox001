@@ -36,7 +36,6 @@ Hi! there👋, I'm Vivien Vanijankul
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)
 
