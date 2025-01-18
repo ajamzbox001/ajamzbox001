@@ -40,3 +40,6 @@ Hi! there👋, I'm Vivien Vanijankul
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
+
+![](https://komarev.com/ghpvc/?username=ajamzbox001&style=flat)
+
