@@ -11,7 +11,7 @@ Hi! there👋, I'm Vivien Vanijankul
 - ⚡ Fun fact ... The only way to get better is by practicing.
 
 ```
- ʕ⁠•⁠ᴥ⁠•⁠ʔ⁠っ
+ 
 ### Toolset
 
 <table>
@@ -43,5 +43,4 @@ Hi! there👋, I'm Vivien Vanijankul
 
 ![](https://komarev.com/ghpvc/?username=ajamzbox001&style=flat)
 
-![](coding-the-matrix.gif)
 
