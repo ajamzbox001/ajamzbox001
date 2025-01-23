@@ -11,7 +11,7 @@ Hi! there👋, I'm Vivien Vanijankul
 - ⚡ Fun fact ... The only way to get better is by practicing.
 
 ```
-
+ ʕ⁠•⁠ᴥ⁠•⁠ʔ⁠っ
 ### Toolset
 
 <table>
