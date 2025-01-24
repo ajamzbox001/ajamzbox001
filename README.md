@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ajamzbox001&style=flat)
+
 ```yaml
 
 Hi! there👋, I'm Vivien Vanijankul  
@@ -38,8 +40,7 @@ Hi! there👋, I'm Vivien Vanijankul
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)
 
+![](coding-the-matrix.gif)
+
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
-
-![](https://komarev.com/ghpvc/?username=ajamzbox001&style=flat)
-
 
