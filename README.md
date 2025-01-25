@@ -13,7 +13,6 @@ Hi! there👋, I'm Vivien Vanijankul
 
 ```
 ### Toolset
-
 <table>
   <tr>
         <td>Full-Stack Dev</td>
@@ -35,17 +34,11 @@ Hi! there👋, I'm Vivien Vanijankul
   </tr>
 </table>
 
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)
 
-<br>
-
 ![](coding-the-matrix.gif)
-
-<br>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
