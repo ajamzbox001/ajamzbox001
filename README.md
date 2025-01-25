@@ -32,13 +32,13 @@ Hi! there👋, I'm Vivien Vanijankul
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
         </td>
   </tr>
-</table>
+</table><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)
 
-![](coding-the-matrix.gif)
+![](coding-the-matrix.gif) 
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
