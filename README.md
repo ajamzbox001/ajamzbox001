@@ -9,7 +9,7 @@ Hi! there👋, I'm Vivien Vanijankul
 - 💬 Ask me about ... Anything.
 - 📫 How to reach me ... ajamzbox@gmail.com
 - 😄 Pronouns ... She / her
-- ⚡ Fun fact ... The only way to get better is by practicing.
+- ⚡ Fun fact ... The only way to get better is by practicing.🧐
 
 ```
 ### Toolset
