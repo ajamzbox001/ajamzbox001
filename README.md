@@ -1,7 +1,7 @@
 ### About Me
 ```yaml
 
-Hi! there 👋 , I'm Vivien Vanijankul.  
+Hi! there 👋 , I'm Vivien Vanijankul.   
 
 - 🔭 I’m currently working on ... Getting a Full-Stack Development Professional Certificate.
 - 🌱 I’m currently learning ... HTML / CSS / JavaScript
