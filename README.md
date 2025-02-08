@@ -7,7 +7,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
 - 🌱 I’m currently learning ... HTML / CSS / JavaScript
 - 🤔 I’m looking for help with ... Remote or Freelance job offers.
 - 💬 Ask me about ... Anything
-- 📫 How to reach me ... ajamzbox@gmail.com 
+- 📫 How to reach me ... ajamzbox@gmail.com   
 - 😄 Pronouns ... She / her
 - ⚡ Fun fact ... The only way to get better is by practicing.
 
