@@ -32,7 +32,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
         </td>
   </tr>
-</table>   
+</table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
