@@ -15,7 +15,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
 ### Toolset
 <table> 
   <tr>
-        <td>Full-Stack Dev</td>  
+        <td>Full-Stack Dev</td>
         <td>
           <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0306b8676fd41f369252255f848856e9062cf73b/logo-2582748_1280.png" width="50" height="50"/></a>
         </td>
@@ -32,7 +32,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
         </td>
   </tr>
-</table>
+</table>   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
