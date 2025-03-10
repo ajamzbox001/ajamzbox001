@@ -1,7 +1,7 @@
 ### About Me
 ```yaml
 
-Hi! there 👋 , I'm Vivien Vanijankul.     
+Hi! there 👋 , I'm Vivien Vanijankul. 
 
 - 🔭 I’m currently working on ... Getting a Full-Stack Development Professional Certificate.
 - 🌱 I’m currently learning ... HTML / CSS / JavaScript
@@ -13,7 +13,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
 
 ```
 ### Toolset
-<table> 
+<table>
   <tr>
         <td>Full-Stack Dev</td>
         <td>
@@ -38,7 +38,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajamzbox001&show_icons=true&theme=dracula)
 
-![](coding-the-matrix.gif) 
+![](coding-the-matrix.gif)
 
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
