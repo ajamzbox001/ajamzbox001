@@ -17,7 +17,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
   <tr>
         <td>Full-Stack Dev</td>
         <td>
-          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0306b8676fd41f369252255f848856e9062cf73b/logo-2582748_1280.png" width="50px" height="50px"/></a>
+          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0306b8676fd41f369252255f848856e9062cf73b/logo-2582748_1280.png" width="50" height="50"/></a>
         </td>
         <td>
           <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/1d8f9b72eb5c7eacd5b4a6b89f538befbdb68060/logo-2582747_1280.png" width="50" height="50"/></a>
