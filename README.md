@@ -28,6 +28,9 @@ Hi! there 👋 , I'm Vivien Vanijankul.
         <td>
           <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
         </td>
+        <td>
+          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/d029b51b37051da9ee61d9edba72fc138d7ec5d0/logo-vue-js.png" width="40" height="40"/></a>
+        </td>
   </tr>
   <tr>
         <td>IDEs</td> 
