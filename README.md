@@ -29,16 +29,16 @@ Hi! there 👋 , I'm Vivien Vanijankul.
   <tr>
         <td> </td>
         <td>
-          <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+          <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
         </td>
         <td>
-          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/d029b51b37051da9ee61d9edba72fc138d7ec5d0/logo-vue-js.png" width="40" height="40"/></a>
+          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/d029b51b37051da9ee61d9edba72fc138d7ec5d0/logo-vue-js.png" width="50" height="50"/></a>
         </td>
   </tr>
   <tr>
         <td>IDEs</td> 
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
         </td>
         <td>
             <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/67479f82beb446d62a7ec7265c3f45ba4c98c908/logo-sublime-text.png" width="50" height="50"/></a>
