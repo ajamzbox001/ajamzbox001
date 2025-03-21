@@ -23,7 +23,7 @@ Hi! there 👋 , I'm Vivien Vanijankul.
           <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/1d8f9b72eb5c7eacd5b4a6b89f538befbdb68060/logo-2582747_1280.png" width="50" height="50"/></a>
         </td>
         <td>
-          <a href=""><img src="" width="50" height="50"/></a>
+          <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0c4cf126e9c5cb7f8ddfe424fb383149659d5367/logo_sass_icon.png" width="50" height="50"/></a>
         </td>
         <td>
           <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
