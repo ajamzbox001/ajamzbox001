@@ -35,8 +35,6 @@ Hi! there 👋 , I'm Vivien Vanijankul.
           <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/d029b51b37051da9ee61d9edba72fc138d7ec5d0/logo-vue-js.png" width="50" height="50"/></a>
         </td>
   </tr>
-</table>
-<table>
   <tr>
         <td>IDEs</td> 
         <td>
