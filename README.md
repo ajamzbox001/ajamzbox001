@@ -26,15 +26,17 @@ Hi! there 👋 , I'm Vivien Vanijankul.
           <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/0c4cf126e9c5cb7f8ddfe424fb383149659d5367/logo_sass_icon.png" width="50" height="50"/></a>
         </td>
   </tr>
-  
   <tr>
-        <td>
+        <td></td>
+         <td>
           <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
         </td>
         <td>
           <a href=""><img src="https://github.com/ajamzbox001/ajamzbox001/blob/d029b51b37051da9ee61d9edba72fc138d7ec5d0/logo-vue-js.png" width="50" height="50"/></a>
         </td>
   </tr>
+</table>
+<table>
   <tr>
         <td>IDEs</td> 
         <td>
