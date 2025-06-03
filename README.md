@@ -51,8 +51,6 @@ Hi! there 👋, I'm Vivien Vanijankul 😊.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamzbox001&layout=compact&theme=dracula)
 
-![](coding-the-matrix.gif)
-
 <img src="https://forthebadge.com/images/badges/built-with-love.png" />
 
 ![](https://komarev.com/ghpvc/?username=ajamzbox001&style=flat)
