@@ -51,6 +51,6 @@ Hi! there 👋, I'm Vivien Vanijankul 😊.
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Vud2FjYzFibmFtbDA1dWN6bmFoejg2ZjRxb28wNHY5b3FrbmF1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="250px" />
 
-<img src="https://github.com/ajamzbox001/ajamzbox001/blob/main/Support%20Me%20Sticker%20by%20Buy%20Me%20a%20Coffee.gif" width="80" height="80" />
+<img src="https://github.com/ajamzbox001/ajamzbox001/blob/main/Support%20Me%20Sticker%20by%20Buy%20Me%20a%20Coffee.gif" width="150" height="150" />
 
 ![](https://komarev.com/ghpvc/?username=ajamzbox001&style=flat)
