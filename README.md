@@ -5,7 +5,7 @@ Hi! there 👋, I'm Vivien Vanijankul 😊.
 
 - 🔭 I’m a Web Developer and Artist.
 - 🌱 Coding language ... HTML / CSS / JavaScript
-- 🤔 I'm developing an AJAMZBOX Website
+- 🤔 I'm developing an AJAMZBOX Website ... ajamzbox.art
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... ajamzbox@gmail.com   
 - 😄 Pronouns ... She / her
