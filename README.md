@@ -3,9 +3,9 @@
 
 Hi! there 👋, I'm Vivien Vanijankul 😊. 
 
-- 🔭 I’m currently working on ... Getting a Full-Stack Development Professional Certificate.
-- 🌱 I’m currently learning ... HTML / CSS / JavaScript
-- 🤔 I’m looking for help with ... Remote or Freelance job offers.
+- 🔭 I’m a Web Developer and Artist.
+- 🌱 Coding language ... HTML / CSS / JavaScript
+- 🤔 I'm developing an AJAMZBOX Website
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... ajamzbox@gmail.com   
 - 😄 Pronouns ... She / her
